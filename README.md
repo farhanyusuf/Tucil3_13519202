@@ -14,3 +14,7 @@
 3. Untuk test file baru, test file terdiri dari dua bagian, position dan matriks
 4. Untuk position diisi dengan nama_lokasi<spasi>latitude<spasi>longitude
 5. Untuk matriks diisi dengan adjacency matrix berbobot, indeks disesuaikan dengan urutan pada position.
+
+## Author
+Farhan Yusuf Akbar
+13519202
