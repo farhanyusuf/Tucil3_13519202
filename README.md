@@ -12,7 +12,7 @@
 1. Test file memiliki ekstensi .txt
 2. Jika ingin menggunakan test file yang telah disediakan, gunakan file pada folder test
 3. Untuk test file baru, test file terdiri dari dua bagian, position dan matriks
-4. Untuk position diisi dengan nama_lokasi<spasi>latitude<spasi>longitude
+4. Untuk position diisi dengan nama_lokasi(spasi)latitude(spasi)longitude
 5. Untuk matriks diisi dengan adjacency matrix berbobot, indeks disesuaikan dengan urutan pada position.
 
 ## Author
