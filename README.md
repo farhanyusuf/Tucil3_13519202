@@ -8,7 +8,7 @@
 5. Jika executable file tidak bisa dijalankan, buka project solution pada folder src dengan visual studio
 6. Run project
 
-## Panduan Test File ***
+## Panduan Test File
 1. Test file memiliki ekstensi .txt
 2. Jika ingin menggunakan test file yang telah disediakan, gunakan file pada folder test
 3. Untuk test file baru, test file terdiri dari dua bagian, position dan matriks
