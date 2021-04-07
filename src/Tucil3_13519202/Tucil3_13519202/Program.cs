@@ -205,10 +205,12 @@ namespace Tucil3_13519202
                             {
                                 double distance = Convert.ToDouble(d);
                                 addNeighbourMap(idx, locationList[idy].getLocationName(), distance);
-                                var Edge = Graph.AddEdge(this.locationList[idx].getLocationName(), this.locationList[idy].getLocationName());
-                                Edge.Attr.ArrowheadAtSource = Microsoft.Msagl.Drawing.ArrowStyle.None;
-                                Edge.Attr.ArrowheadAtTarget = Microsoft.Msagl.Drawing.ArrowStyle.None;
-                                
+                                if (idx > idy)
+                                {
+                                    var Edge = Graph.AddEdge(this.locationList[idx].getLocationName(), this.locationList[idy].getLocationName());
+                                    Edge.Attr.ArrowheadAtSource = Microsoft.Msagl.Drawing.ArrowStyle.None;
+                                    Edge.Attr.ArrowheadAtTarget = Microsoft.Msagl.Drawing.ArrowStyle.None;
+                                }
                                 d = "";
                                 j++;
                                 idy++;

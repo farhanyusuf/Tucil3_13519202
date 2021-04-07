@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pertubesan\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj": {}
+    "E:\\Pertubesan\\Tucil3_13519202\\src\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj": {}
   },
   "projects": {
-    "E:\\Pertubesan\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj": {
+    "E:\\Pertubesan\\Tucil3_13519202\\src\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pertubesan\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj",
+        "projectUniqueName": "E:\\Pertubesan\\Tucil3_13519202\\src\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj",
         "projectName": "Tucil3_13519202",
-        "projectPath": "E:\\Pertubesan\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj",
+        "projectPath": "E:\\Pertubesan\\Tucil3_13519202\\src\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Pertubesan\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202\\obj\\",
+        "outputPath": "E:\\Pertubesan\\Tucil3_13519202\\src\\Tucil3_13519202\\Tucil3_13519202\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
