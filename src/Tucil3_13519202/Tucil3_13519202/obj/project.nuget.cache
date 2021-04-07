@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7yZBux8hf4tCKVibK5gcll44mkWn2/97226Lb/4UWi8nNNkZaJSBb6J1s0Q2WZtZLmrR+sqDP7eRlHFKx2UQw==",
+  "success": true,
+  "projectFilePath": "E:\\Pertubesan\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202\\Tucil3_13519202.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automaticgraphlayout\\1.1.11\\automaticgraphlayout.1.1.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\automaticgraphlayout.drawing\\1.1.11\\automaticgraphlayout.drawing.1.1.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\automaticgraphlayout.graphviewergdi\\1.1.11\\automaticgraphlayout.graphviewergdi.1.1.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\automaticgraphlayout.wpfgraphcontrol\\1.1.11\\automaticgraphlayout.wpfgraphcontrol.1.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
